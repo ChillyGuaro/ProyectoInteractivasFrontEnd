@@ -1,0 +1,133 @@
+@import "buttons.css";
+@import "registros.css";
+@import "modal.css";
+@import "footer.css";
+@import "card.css";
+@import "header.css";
+@import "completeNews.css";
+
+
+
+.container {
+  max-width: 2000px;
+  padding: 0%;
+}
+
+.bg-body {
+  background: linear-gradient(90deg, #363636, #707070, #363636);
+}
+
+h1 {
+  color: #ffff;
+  text-align: center;
+  margin-top: 6rem;
+}
+
+
+
+@media (max-width: 1400px) {
+  .card {
+    width: 20rem;
+    height: 35rem;
+    margin: auto;
+    margin-bottom: 5rem;
+    background-color: #494949;
+    color: #ffff;
+  }
+
+  .section-card {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .card-img-top {
+    max-width: 200%;
+    height: 200px;
+
+  }
+
+  .btn-danger {
+    text-align: center;
+    margin-right: 11rem;
+    background-color: #c52f2f;
+    opacity: 85%;
+  }
+
+
+}
+
+@media (max-width: 900px) {
+
+  .modal-content {
+    width: 20rem;
+    background-color: #c52f2f;
+    font-family: inter;
+    color: #ffff;
+    justify-items: auto;
+    text-align: justify !important;
+    justify-content: left !important;
+    margin: auto;
+  }
+
+
+  .card {
+    width: 20rem;
+    height: 30rem;
+    margin: auto;
+    margin-bottom: 4rem;
+    background-color: #494949;
+    color: #ffff;
+  }
+
+  .card-img-top {
+    max-width: 100%;
+    height: 150px;
+
+  }
+
+  .section-card {
+    display: grid;
+    gap: 5rem;
+    grid-template-columns: 1fr;
+  }
+
+  .h1-login {
+    margin: auto;
+    font-size: 25px;
+  }
+
+  .img-comp {
+    width: 200px;
+    height: 200px;
+
+  }
+
+  .p-comp {
+    font-family: Inter;
+    display: justify;
+    font-size: 20px;
+    color: #fff;
+    margin: 2rem;
+    margin-bottom: 5rem;
+    text-align: justify;
+  }
+
+
+  .btn-danger {
+    text-align: center;
+    margin-right: 11rem;
+    background-color: #c52f2f;
+    opacity: 85%;
+  }
+
+  .log-bg-section {
+    background-color: #c52f2f;
+    border-radius: 1rem;
+    margin: 2rem 2rem 2rem 2rem;
+    color: #ffff;
+    font-family: Inter;
+    font-size: 18px;
+    padding: 2rem;
+  }
+}

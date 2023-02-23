@@ -1,0 +1,24 @@
+.log-bg-section {
+  background-color: #c52f2f;
+  border-radius: 1rem;
+  margin: 10rem 10rem 10rem 10rem;
+  color: #ffff;
+  font-family: Inter;
+  font-size: 18px;
+  padding: 2rem;
+}
+
+.a-mr-ing {
+  margin-bottom: 3rem !important;
+  text-decoration: none;
+  color: #ffff;
+}
+
+.a-mr-ing:hover {
+  text-decoration: none;
+  color: #494949;
+}
+
+.h1-login {
+  margin: auto;
+}

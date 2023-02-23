@@ -1,0 +1,19 @@
+.btn-secondary {
+  background-color: #363636;
+}
+
+.btn {
+  outline-color: #363636;
+}
+
+.btn-danger {
+  text-align: center;
+  margin-right: 20rem;
+  background-color: #c52f2f;
+  opacity: 85%;
+}
+
+.btn-danger:hover {
+  background-color: #c52f2f;
+  opacity: 100%;
+}

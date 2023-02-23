@@ -1,0 +1,9 @@
+.modal-content {
+  background-color: #c52f2f;
+  font-family: inter;
+  color: #ffff;
+  justify-items: auto;
+  text-align: justify !important;
+  justify-content: left !important;
+  margin: auto;
+}

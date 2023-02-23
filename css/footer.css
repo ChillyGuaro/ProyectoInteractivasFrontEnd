@@ -1,0 +1,12 @@
+footer {
+  min-height: 30px;
+  background-color: #c52f2f;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+.img-footer {
+  width: 5.5rem;
+  padding: 0.5rem 2rem 0.5rem 2rem;
+}

@@ -1,0 +1,15 @@
+.img-comp {
+    margin: auto;
+    margin-top: 5rem;
+    width: 400px;
+    height: 400px;
+    display: flex;
+}
+
+.p-comp {
+    font-family: Inter;
+    display: flex;
+    font-size: 20px;
+    color: #fff;
+    margin: 5rem;
+}

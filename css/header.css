@@ -1,0 +1,27 @@
+.bg-navbar-color {
+  background-color: #c52f2f;
+}
+
+.a-header-color {
+  color: #ffff;
+}
+
+.mr-8 {
+  margin-right: 10rem;
+}
+
+.nav-link:hover {
+  opacity: 80%;
+}
+
+.dropdown-menu {
+  background: #363636;
+}
+
+.dropdown-item {
+  color: #ffff;
+}
+
+.dropdown-item:hover {
+  opacity: 90%;
+}
